@@ -1,0 +1,26 @@
+﻿  glad.c
+  Main.cpp
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(241,18): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(245,19): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(376,14): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(380,14): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(385,13): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(389,14): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(394,16): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(398,17): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(404,22): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(408,22): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(413,24): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(417,25): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(423,74): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(686,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(697,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(568,8): warning C4101: success: неиспользованная локальная переменная
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(676,13): warning C4101: start_3D: неиспользованная локальная переменная
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(675,20): warning C4101: end: неиспользованная локальная переменная
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(675,13): warning C4101: start: неиспользованная локальная переменная
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(676,23): warning C4101: end_3D: неиспользованная локальная переменная
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Main.cpp(675,25): warning C4101: tmpEnd: неиспользованная локальная переменная
+C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\task_8_Vasilenko\Shader.h(26): warning C4715: shader::readTextFile: значение возвращается не при всех путях выполнения
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  task_8_Vasilenko.vcxproj -> C:\Users\vasilenkoia\Downloads\task_8_Vasilenko\Debug\task_8_Vasilenko.exe
